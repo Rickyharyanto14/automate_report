@@ -1,0 +1,3 @@
+#Akan meng-ignore .emv pada plugin dan data directory
+plugins/.env
+data/
